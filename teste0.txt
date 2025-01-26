@@ -1,1 +1,0 @@
-Teste de Git para alterar o resultado do git status antes de commit
